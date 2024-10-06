@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"eda35818ab9f63a3","x":-345,"y":221,"width":380,"height":199,"type":"file","file":"history/Chinese civil war/foreign intervention.md"},
+		{"id":"bb07cf625b627f90","x":80,"y":121,"width":400,"height":400,"type":"file","file":"history/Chinese civil war/the Role of USA.md"},
+		{"id":"fec146fa2287af3f","x":520,"y":121,"width":400,"height":400,"type":"file","file":"history/Chinese civil war/Causes Pearson.pdf.pdf","subpath":"#page=21"},
+		{"id":"85dbe8b87c472f2c","x":-280,"y":121,"width":250,"height":60,"type":"text","text":"Chinese civil war"}
+	],
+	"edges":[
+		{"id":"1e8c500643755a99","fromNode":"85dbe8b87c472f2c","fromSide":"bottom","toNode":"eda35818ab9f63a3","toSide":"top"},
+		{"id":"786b38d384942e42","fromNode":"eda35818ab9f63a3","fromSide":"right","toNode":"bb07cf625b627f90","toSide":"left"},
+		{"id":"8d6d43e430980504","fromNode":"bb07cf625b627f90","fromSide":"right","toNode":"fec146fa2287af3f","toSide":"left"}
+	]
+}
